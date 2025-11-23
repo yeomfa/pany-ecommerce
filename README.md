@@ -74,8 +74,4 @@ npm run data:import --prefix backend
 ```bash
 # Run both backend and frontend concurrently
 npm run dev
-
-## Acknowledgments
-
-- Icons by [Lucide](https://lucide.dev/)
 ```
